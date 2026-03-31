@@ -1,6 +1,6 @@
 # 🖱️ FastFingers
 
-A minimal typing speed tester created for **Day 2** of the 30-Day Vanilla JS Challenge.
+A minimal typing speed tester created for **Day 2** Vanilla JS Challenge.
 
 **Live Demo:** [https://fastfingertyping.netlify.app/](https://fastfingertyping.netlify.app/)
 
